@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="pinkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB6D5" />
+      <stop offset="100%" stop-color="#E75480" />
+    </linearGradient>
+  </defs>
+  <path d="M50,88 C50,88 10,60 10,32 C10,18 22,8 35,8 C43,8 48,13 50,16 C52,13 57,8 65,8 C78,8 90,18 90,32 C90,60 50,88 50,88 Z" fill="url(#pinkGrad)"/>
+  <circle cx="35" cy="25" r="4" fill="#FFFFFF" opacity="0.7"/>
+  <circle cx="65" cy="25" r="2.5" fill="#FFFFFF" opacity="0.6"/>
+</svg>
